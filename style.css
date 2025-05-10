@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: cornsilk;
+}
+div{
+    margin-top: 5%;
+    margin-left: 35%;
+    color: white;
+    align-items: center;
+}
+#myid{
+    margin-left: 10%;
+}
